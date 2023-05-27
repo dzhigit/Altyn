@@ -1,0 +1,2 @@
+# Altyn
+My AltynToken
