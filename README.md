@@ -1,4 +1,4 @@
-# Altyn
+# Altyn Token - ALTYN
 My AltynToken.
 
 https://coinsgem.com/token/0x0d5909ed595ef6ae061d553c7aaf967c3e344f71
